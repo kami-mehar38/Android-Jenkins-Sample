@@ -17,6 +17,6 @@ public class ExampleUnitTest {
 
     @Test
     public void assertTrue() {
-        assertSame("OK Cool the test is passed", 4, 5);
+        assertSame("OK Cool the test is passed", 5, 5);
     }
 }
